@@ -8,3 +8,28 @@ Given the property of inspection, four dimension tables (restaurant, violation, 
 
 ## Data visualization
 Visualizations were carried out using Power BI bar chart, treemap and matrix to demonstrate detail analysis of violation type, restaurant, garde and scores.
+
+Critical violation type and counts:
+![critical violation](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Critical%20violation%20analysis.png)
+
+Non critical violation type and counts:
+![Non critical violation](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Non%20critical%20violation%20analysis.png)
+
+Restaurant violation counts:
+![restaurant violation](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Restaurant%20violation%20analysis.png)
+
+Critical violation type treemap:         
+
+![critical violation type](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Critical%20violation%20main%20type%20analysis.png)
+
+Action, grade and score counts:
+![action grade score](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Action%2C%20grade%20and%20score%20analysis.png)
+
+Violation score, percentage of violation and action:
+![violation code score and percentage of violation and action](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Violation%20code%20score%2C%20percentage%20of%20violation%20and%20action.png)
+
+Citation and inspection:
+![citation and inspection](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Citation%20and%20inspection.png)
+
+Inspection type, grade and score:
+![inspection type grade and score](https://github.com/susanliubc/DOHMH-Restaurant-Inspection/blob/main/Inspection%20type%2C%20grade%20and%20score.png)
