@@ -1,0 +1,32 @@
+InspectionType,InspectionMainType,InspectionSubType,InspectionTypeID
+Cycle Inspection / Initial Inspection,Cycle Inspection,Initial Inspection,1
+Pre-permit (Operational) / Initial Inspection,Pre-permit (Operational),Initial Inspection,2
+Cycle Inspection / Re-inspection,Cycle Inspection,Re-inspection,3
+Administrative Miscellaneous / Initial Inspection,Administrative Miscellaneous,Initial Inspection,4
+Trans Fat / Initial Inspection,Trans Fat,Initial Inspection,5
+Pre-permit (Non-operational) / Initial Inspection,Pre-permit (Non-operational),Initial Inspection,6
+Inter-Agency Task Force / Initial Inspection,Inter-Agency Task Force,Initial Inspection,7
+Pre-permit (Operational) / Re-inspection,Pre-permit (Operational),Re-inspection,8
+Calorie Posting / Re-inspection,Calorie Posting,Re-inspection,9
+Cycle Inspection / Compliance Inspection,Cycle Inspection,Compliance Inspection,10
+Calorie Posting / Initial Inspection,Calorie Posting,Initial Inspection,11
+Smoke-Free Air Act / Initial Inspection,Smoke-Free Air Act,Initial Inspection,12
+Pre-permit (Operational) / Compliance Inspection,Pre-permit (Operational),Compliance Inspection,13
+Cycle Inspection / Reopening Inspection,Cycle Inspection,Reopening Inspection,14
+Administrative Miscellaneous / Re-inspection,Administrative Miscellaneous,Re-inspection,15
+Trans Fat / Re-inspection,Trans Fat,Re-inspection,16
+Pre-permit (Operational) / Reopening Inspection,Pre-permit (Operational),Reopening Inspection,17
+Administrative Miscellaneous / Reopening Inspection,Administrative Miscellaneous,Reopening Inspection,18
+Pre-permit (Non-operational) / Re-inspection,Pre-permit (Non-operational),Re-inspection,19
+Pre-permit (Operational) / Second Compliance Inspection,Pre-permit (Operational),Second Compliance Inspection,20
+Smoke-Free Air Act / Re-inspection,Smoke-Free Air Act,Re-inspection,21
+Administrative Miscellaneous / Compliance Inspection,Administrative Miscellaneous,Compliance Inspection,22
+Trans Fat / Compliance Inspection,Trans Fat,Compliance Inspection,23
+Smoke-Free Air Act / Limited Inspection,Smoke-Free Air Act,Limited Inspection,24
+Calorie Posting / Compliance Inspection,Calorie Posting,Compliance Inspection,25
+Pre-permit (Non-operational) / Compliance Inspection,Pre-permit (Non-operational),Compliance Inspection,26
+Administrative Miscellaneous / Second Compliance Inspection,Administrative Miscellaneous,Second Compliance Inspection,27
+Cycle Inspection / Second Compliance Inspection,Cycle Inspection,Second Compliance Inspection,28
+Smoke-Free Air Act / Compliance Inspection,Smoke-Free Air Act,Compliance Inspection,29
+Trans Fat / Second Compliance Inspection,Trans Fat,Second Compliance Inspection,30
+Pre-permit (Non-operational) / Second Compliance Inspection,Pre-permit (Non-operational),Second Compliance Inspection,31
